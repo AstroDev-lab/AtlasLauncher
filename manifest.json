@@ -1,0 +1,21 @@
+{
+    "name": "AtlasLauncherv1.0.0",
+    "short_name": "Atlas Launcher",
+    "start_url": "Index.html",
+    "display": "standalone",
+    "background": "#000000",
+    "theme_color": "#000000",
+    "orientation": "landscape"
+    "icons": [
+        {
+            "src": "AppIcon.png",
+            "sizes": "192x192",
+            "type": "image/png",
+        }
+        {
+            "src": "AppIcon.png",
+            "sizes": "512x512",
+            "type": "image/png",
+        }
+    ]
+}
